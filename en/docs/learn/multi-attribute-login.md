@@ -32,7 +32,7 @@ how to configure this.
 
    Here are a few examples for regex patterns.
    
-    <table>
+   <table>
         <thead>
             <tr class="header">
                 <th>Claim URI</th>
@@ -53,7 +53,7 @@ how to configure this.
                 <td>^[a-zA-Z0–9._-]{3,}$</td>
             </tr>
         </tbody>
-    </table>
+   </table>
 
 You have now successfully set up WSO2 Identity Server to enable multi-attribute login.
 
